@@ -1,4 +1,4 @@
-Fast Food Ordering
+# Fast Food Ordering
 
 Create functions to place orders.
 
